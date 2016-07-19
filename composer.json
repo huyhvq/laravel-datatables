@@ -17,7 +17,6 @@
         "illuminate/http": "~5.3",
         "illuminate/filesystem": "~5.3",
         "league/fractal": "~0.12",
-        "laravelcollective/html": "~5.*",
         "maatwebsite/excel": "^2.0",
         "dompdf/dompdf": "^0.6.1"
     },
